@@ -1,0 +1,2 @@
+# EmailValidationDjangoRestFrameworkAPI
+EmailValidationDjangoRestFrameworkAPI
